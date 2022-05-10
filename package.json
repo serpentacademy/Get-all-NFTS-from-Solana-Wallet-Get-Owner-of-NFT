@@ -2,5 +2,8 @@
   "dependencies": {
     "@metaplex/js": "^4.12.0",
     "@solana/web3.js": "^1.41.4"
+  },
+  "devDependencies": {
+    "typescript": "^4.6.4"
   }
 }
