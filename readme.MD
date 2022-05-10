@@ -1,4 +1,4 @@
-<h1>Get NFTs NFT owners</h1>
+<h1>Get NFTs owner, holder</h1>
 <ul>
 <li>Get all NFTs in a wallet</li>
 <li>Get the owner of an NFT mint Address</li>
